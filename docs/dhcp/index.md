@@ -88,6 +88,7 @@ Para verificar se a maquina está pegando o IP Dinâmico, iremos abrir o cmd e e
 
     $ ipconfig
 
+![Alt text](image-12.png)
 
 Agora vamos reservar 02 ips fixos. Para necessidades como impressora e servidor.
 
