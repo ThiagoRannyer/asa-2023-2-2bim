@@ -47,6 +47,10 @@ criar os diretórios que foram inseridos no smb.conf (diretórios que serão com
 
 ![Alt text](image-3.png)
 
+Edite também o arquivo hosts em /etc/hosts para definirmos um domínio em nosso **DNS**.
+
+![Alt text](image-17.png)
+
 Vamos reiniciar o SAMBA
 
 ![Alt text](image-4.png)
